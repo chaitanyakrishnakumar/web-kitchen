@@ -9,4 +9,4 @@
   - Horizontal Rule Element
   - Break Element
 - Movie Bucket list page
-[Movie-BuketList.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Movie-BuketList.html)
+[Movie-BucketList.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Movie-BucketList.html)
