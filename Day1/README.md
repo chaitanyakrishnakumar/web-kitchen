@@ -6,6 +6,6 @@
   - Horizontal Rule Element
   - Break Element
 ## Web Demos
-[Heading Elements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/heading_elements.html) <br>
-[Paragraph Elements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/paragraph_elements.html) <br>
-[Void Elements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/void_elements.html)
+[Heading Elements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/HeadingElements.html) <br>
+[Paragraph Elements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/ParagraphElements.html) <br>
+[Void Elements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/VoidElements.html)
