@@ -1,7 +1,7 @@
 # Day 1 - Basic HTMLAdd commentMore actions
 ## Concepts Learned
 - HTML Heading Elements
-[HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/HeadingElements.html)
+[HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
 
 
 - HTML Paragraph Elements
