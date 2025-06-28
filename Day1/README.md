@@ -1,12 +1,16 @@
-# Day 1 - Basic HTMLAdd commentMore actions
+# Day 1 – Basic HTML
+
 ## Concepts Learned
-- HTML Heading Elements
-[HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
-- HTML Paragraph Elements
-[ParagraphElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElements.html)
-- Void Elements / Self Closing Tags
-[VoidElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/VoidElements.html)
-  - Horizontal Rule Element
-  - Break Element
-- Movie Bucket list page
-[Movie-BucketList.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Movie-BucketList.html)
+- HTML Headings  
+  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
+
+- HTML Paragraphs  
+  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElements.html)
+
+- Void (Self-Closing) Elements  
+  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/VoidElements.html)
+  - Horizontal Rule (`<hr>`)
+  - Line Break (`<br>`)
+
+- Movie Bucket List Page  
+  [View Page](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Movie-BucketList.html)
