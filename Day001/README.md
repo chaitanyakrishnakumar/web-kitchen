@@ -2,4 +2,4 @@
 ## Concepts Learned
 - HTML Heading Elements
 - HTML Paragraph Elements
-- Self Closing Tags
+- Void Elements / Self Closing Tags
