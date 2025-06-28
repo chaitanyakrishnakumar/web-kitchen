@@ -2,14 +2,11 @@
 ## Concepts Learned
 - HTML Heading Elements
 [HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
-
-
 - HTML Paragraph Elements
+[ParagraphElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElements.html)
 - Void Elements / Self Closing Tags
+[VoidElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/VoidElements.html)
   - Horizontal Rule Element
   - Break Element
-## Web Demos
-[HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)<br />
-[ParagraphElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElements.html)<br />
-[VoidElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/VoidElements.html)<br />
+- Movie Bucket list page
 [Movie-BuketList.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Movie-BuketList.html)
