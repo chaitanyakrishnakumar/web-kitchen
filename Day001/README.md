@@ -6,4 +6,4 @@
   - Horizontal Rule Element
   - Break Element
 ## Web Demos
-![HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/HeadingElements.html)
+[HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day001/HeadingElements.html)
