@@ -1,6 +1,8 @@
 # Day 1 - Basic HTMLAdd commentMore actions
 ## Concepts Learned
 - HTML Heading Elements
+https://github.com/chaitanyakrishnakumar/web-kitchen/blob/main/Day001/HeadingElements.html
+
 - HTML Paragraph Elements
 - Void Elements / Self Closing Tags
   - Horizontal Rule Element
