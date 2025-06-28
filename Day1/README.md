@@ -7,3 +7,6 @@
   - Break Element
 ## Web Demos
 [HeadingElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
+[ParagraphElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElements.html)
+[VoidElements.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/VoidElements.html)
+[Movie-BuketList.html](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Movie-BuketList.html)
