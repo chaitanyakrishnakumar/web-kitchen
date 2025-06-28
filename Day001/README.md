@@ -3,3 +3,5 @@
 - HTML Heading Elements
 - HTML Paragraph Elements
 - Void Elements / Self Closing Tags
+  - Horizontal Rule Element
+  - Break Element
