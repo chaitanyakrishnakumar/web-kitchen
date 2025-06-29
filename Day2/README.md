@@ -12,3 +12,6 @@
 
 - Image Element
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/ImageElement.html)
+
+- Project 2
+    [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/Project2.html)
