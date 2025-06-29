@@ -11,3 +11,4 @@
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/AnchorElement.html)
 
 - Image Element
+  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/ImageElement.html)
