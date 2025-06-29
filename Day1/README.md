@@ -5,7 +5,7 @@
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
 
 - HTML Paragraphs  
-  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElements.html)
+  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElement.html)
 
 - Void (Self-Closing) Elements  
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/VoidElements.html)
