@@ -7,5 +7,7 @@
 - Nesting & Indentation
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/Nesting&Indentation.html)
 
-- Anchor Elements
-  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/AnchorElements.html)
+- Anchor Element
+  [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day2/AnchorElement.html)
+
+- Image Element
