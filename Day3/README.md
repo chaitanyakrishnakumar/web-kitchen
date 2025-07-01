@@ -4,4 +4,5 @@
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/FilePaths/Folder0/main.html)
 
 - Web Pages
-   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/WebPages/Home.html)
+- Project 3 (Portfolio)
+   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/Project3/Home.html)
