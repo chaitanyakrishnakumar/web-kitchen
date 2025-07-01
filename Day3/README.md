@@ -2,3 +2,6 @@
 ## Concepts Learned
 - Computer File Paths
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/FilePaths/Folder0/main.html)
+
+- Web Pages
+   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/WebPages/Home.html)
