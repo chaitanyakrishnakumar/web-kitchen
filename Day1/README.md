@@ -12,5 +12,5 @@
   - Horizontal Rule (`<hr>`)
   - Line Break (`<br>`)
 
-- Project1 - Movie Bucket List Page  
+- Project 1 (Movie Bucket List) 
   [View Page](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/Project1.html)
