@@ -1,10 +1,10 @@
 # Day 1 – Basic HTML
 
 ## Concepts Learned
-- HTML Headings  
+- HTML Headings ('<h1>') 
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/HeadingElements.html)
 
-- HTML Paragraphs  
+- HTML Paragraphs ('<p>')
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day1/ParagraphElement.html)
 
 - Void (Self-Closing) Elements  
