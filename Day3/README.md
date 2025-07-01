@@ -7,4 +7,4 @@
   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/WebPages/Home.html)
 
 - Project 3 (Portfolio)
-   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/Project3/Home.html)
+   [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day3/Project3/home.html)
