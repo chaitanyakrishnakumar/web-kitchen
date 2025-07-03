@@ -4,7 +4,7 @@
   - Inline
   - Internal
   - External
-- CSS Selectors
+- CSS Selectors [View Demo](https://chaitanyakrishnakumar.github.io/web-kitchen/Day4/CSSselectors/index.html)
   - Element selector
   - Class selector
   - ID selector
