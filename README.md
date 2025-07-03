@@ -4,4 +4,4 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 2:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day2) Intermediate HTML
 - [Day 3:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day3) Multi Page Websites
 - [Capstone 1](https://chaitanyakrishnakumar.github.io/web-kitchen/Capstone-1/index.html) 1st Portfolio
-- [Day4:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day4)
+- [Day4:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day4) Introduction to CSS
