@@ -4,4 +4,9 @@
   - Inline
   - Internal
   - External
-
+- CSS Selectors
+  - Element selector
+  - Class selector
+  - ID selector
+  - Attribute selector
+  - Universal selector
