@@ -5,4 +5,4 @@ Showcasing the projects I built as I progressed through this amazing [Udemy Cour
 - [Day 3:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day3) Multi Page Websites
 - [Capstone 1](https://chaitanyakrishnakumar.github.io/web-kitchen/Capstone-1/index.html) 1st Portfolio
 - [Day 4:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day4) Introduction to CSS
-- [Day 5:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day5) CSS
+- [Day 5:](https://github.com/chaitanyakrishnakumar/web-kitchen/tree/main/Day5) CSS Properties
